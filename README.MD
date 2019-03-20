@@ -46,7 +46,23 @@ The Last Post Dataset is developed at [Ghent University](https://www.ugent.be/en
 We strongly encourage fellow researchers within the field to try out and use the dataset for their own research projects. 
 If you use this dataset for your own projects, please give credit to the original authors, for example by citing the following publication:
 
-> Jerico Moeyersons, Brecht Verhoeve, Pieter-Jan Maenhaut, Bruno Volckaert & Filip De Turck. Pluggable Drone Imaging Analysis Framework for Mob Detection during Open-Air Events. In proceedings of the 2019 8th International Conference on Pattern Recognition Applications and Methods (ICPRAM 2019), Prague, Czech Republic, 2019.
+> Moeyersons, J., Verhoeve, B., Maenhaut, P. J., Volckaert, B., & De Turck, F. (2019). Pluggable drone imaging analysis framework for mob detection during open-air events. In ICPRAM2019, the 8th International Conference on Pattern Recognition Applications and Methods (pp. 64-72).
+
+Bibtex:
+
+```
+@conference{icpram19,
+author = {Moeyersons, Jerico and Verhoeve, Brecht and Maenhaut, Pieter-Jan and Volckaert, Bruno and {De Turck}, Filip},
+booktitle = {Proceedings of the 8th International Conference on Pattern Recognition Applications and Methods - Volume 1: ICPRAM,},
+doi = {10.5220/0007260400640072},
+isbn = {978-989-758-351-3},
+organization = {INSTICC},
+pages = {64--72},
+publisher = {SciTePress},
+title = {{Pluggable Drone Imaging Analysis Framework for Mob Detection during Open-air Events}},
+year = {2019}
+}
+```
 
 ## License
 
